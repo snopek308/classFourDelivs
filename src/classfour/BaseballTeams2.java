@@ -39,13 +39,13 @@ public class BaseballTeams2 {
     public enum Teams {
         //These are like mini classes, have a variable abc
     CHI ("Chicago Cubs"),
-    CUB (""),
-    CIN (""),
-    RED(""),
-    MIL(""),
-    BRE(""),
-    PIT(""),
-    PIR("");  
+    CUB ("Chicago Cubs"),
+    CIN ("Cincinnati Reds"),
+    RED("Cincinnati Reds"),
+    MIL("Milwaukee Brewers"),
+    BRE("Milwaukee Brewers"),
+    PIT("Pittsburgh Pirates"),
+    PIR("Pittsburgh Pirates");  
     
     private String abv;
     
